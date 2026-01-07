@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+data/raw/
+data/processed/*.csv
+models/*.h5
+models/*.pkl
+__pycache__/

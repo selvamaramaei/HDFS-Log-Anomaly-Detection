@@ -28,7 +28,7 @@ Trainer (5_trainer.py): Hazırlanan veriler LSTM modeline beslenerek anomali tes
 # Kurulum ve Çalıştırma
 Depoyu klonlayın:
 
-git clone https://github.com/kullanici_adin/HDFS-Log-Anomaly-Detection.git
+git clone https://github.com/selvamaramaei/HDFS-Log-Anomaly-Detection
 cd HDFS-Log-Anomaly-Detection
 
 # Gerekli kütüphaneleri yükleyin:
